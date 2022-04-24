@@ -1,0 +1,121 @@
+nav{
+    background-color: rgb(175, 30, 189);
+    text-align: center;
+    
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.osulogo {
+
+    height: 150px;
+    margin-top: 35px;
+    
+}
+.hardmapss {
+    background-color: rgb(4, 238, 255);
+    width: auto;
+    font-family: 'Roboto Mono', monospace;
+}
+
+ol a {
+    text-decoration: none;
+    list-style: none;
+}
+.scorezz {
+    background-color: aqua;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.totalhrz {
+    background-color: rgb(8, 252, 0);
+}
+
+.hourstxt {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 27px;
+}
+
+.welcome {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50px;
+background-color: rgb(6, 218, 147);
+    
+
+}
+
+.linkforosu{
+    background-color: aquamarine;
+    font-size: 26px;
+    margin-top: 0.72in;
+    position: relative  ;
+    border: 1in;
+    font-family: 'roboto', monospace;
+}
+
+.stuff {
+    background-color: aquamarine;
+    font-size: 29px;
+    font-family: 'roboto', monospace;
+    position: relative;
+    margin-right: 5in;
+    margin-left: 5in;
+
+    
+
+}
+
+.body {
+    background-color: aquamarine;
+}
+
+.moreosu {
+
+    text-decoration: none;
+    font-family: 'roboto', monospace;
+    list-style: none;
+    background-color: rgb(6, 243, 164);
+
+    
+}
+
+.video {
+    font-size: 35px;
+    font-family: 'roboto', monospace;
+    text-decoration: none;
+    list-style: none;
+    background-color: aquamarine;
+}
+
+.murosu {
+text-decoration: none;
+list-style: none;
+font-family: 'roboto', monospace;
+background-color: rgb(6, 243, 164);
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.osustuff { 
+    position: absolute;
+    display: block; 
+    font-size: 20px;
+    background-color: aquamarine;
+    margin: 0;      
+
+}
